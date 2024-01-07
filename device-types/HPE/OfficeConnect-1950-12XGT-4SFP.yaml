@@ -1,0 +1,52 @@
+---
+manufacturer: HPE
+model: OfficeConnect 1950-12XGT-4SFP+ 12x 10GbE 4x SFP+ 10GbE
+slug: JH295A
+part_number: JH295A
+u_height: 1
+is_full_depth: false
+console-ports:
+  - name: console
+    type: rj-45
+  - name: USB Console
+    type: usb-micro-b
+ipower-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 441
+interfaces:
+  - name: Management
+    type: 1000base-t
+    mgmt_only: true
+  - name: '1'
+    type: 10gbase-t
+  - name: '2'
+    type: 10gbase-t
+  - name: '3'
+    type: 10gbase-t
+  - name: '4'
+    type: 10gbase-t
+  - name: '5'
+    type: 10gbase-t
+  - name: '6'
+    type: 10gbase-t
+  - name: '7'
+    type: 10gbase-t
+  - name: '8'
+    type: 10gbase-t
+  - name: '9'
+    type: 10gbase-t
+  - name: '10'
+    type: 10gbase-t
+  - name: '11'
+    type: 10gbase-t
+  - name: '12'
+    type: 10gbase-t
+  - name: '13'
+    type: 10gbase-x-sfpp
+  - name: '14'
+    type: 10gbase-x-sfpp
+  - name: '15'
+    type: 10gbase-x-sfpp
+  - name: '16'
+    type: 10gbase-x-sfpp
